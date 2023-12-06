@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 # @Time : 2023/08/21 14:45
 # @Author : 另外我
-# @File : 列表去重并排序.py
-# @Software: PyCharm
+# @File : list_sort.py
+# @Software: 列表去重并排序
 
 def sort_data():
     data = [1, 34, 23, 2, 56, 78, 78, 9, 779, 9789, 1, 2, 0, 3, 4, 4]
